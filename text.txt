@@ -1,0 +1,78 @@
+Point = ( 10.0 , 10.0 )
+Number of steps =  3000
+Total time = 50.0
+Iterations = 10000
+epsilon = 0.0001
+delta = 0.5
+boundary = 5
+boundary reached
+The index of impact is  731 and the impact coordinate is  ( 51.1140693552 , -0.338303913035 )
+The final coordinate is ( 51.1140693552 , -0.338303913035 )
+boundary reached
+The index of impact is  483 and the impact coordinate is  ( 14.0361374545 , -0.292009018099 )
+The final coordinate is ( 14.0361374545 , -0.292009018099 )
+boundary reached
+The index of impact is  540 and the impact coordinate is  ( -0.720166592886 , 15.0287589856 )
+The final coordinate is ( -0.720166592886 , 15.0287589856 )
+boundary reached
+The index of impact is  638 and the impact coordinate is  ( -0.814944806831 , 18.2159296717 )
+The final coordinate is ( -0.814944806831 , 18.2159296717 )
+boundary reached
+The index of impact is  567 and the impact coordinate is  ( -0.730330647358 , 15.372517966 )
+The final coordinate is ( -0.730330647358 , 15.372517966 )
+boundary reached
+The index of impact is  534 and the impact coordinate is  ( -0.64161395383 , 5.1897344642 )
+The final coordinate is ( -0.64161395383 , 5.1897344642 )
+boundary reached
+The index of impact is  521 and the impact coordinate is  ( 9.66092046183 , -0.363495097599 )
+The final coordinate is ( 9.66092046183 , -0.363495097599 )
+boundary reached
+The index of impact is  985 and the impact coordinate is  ( -0.941086113991 , 6.08956027871 )
+The final coordinate is ( -0.941086113991 , 6.08956027871 )
+boundary reached
+The index of impact is  376 and the impact coordinate is  ( 9.41540732789 , -0.110893858847 )
+The final coordinate is ( 9.41540732789 , -0.110893858847 )
+boundary reached
+The index of impact is  547 and the impact coordinate is  ( 11.7214645845 , -0.802667801497 )
+The final coordinate is ( 11.7214645845 , -0.802667801497 )
+boundary reached
+The index of impact is  622 and the impact coordinate is  ( 29.8002008029 , -0.173154584203 )
+The final coordinate is ( 29.8002008029 , -0.173154584203 )
+boundary reached
+The index of impact is  352 and the impact coordinate is  ( -0.104050296251 , 7.17821000986 )
+The final coordinate is ( -0.104050296251 , 7.17821000986 )
+boundary reached
+The index of impact is  434 and the impact coordinate is  ( 19.7850942339 , -0.066874777563 )
+The final coordinate is ( 19.7850942339 , -0.066874777563 )
+boundary reached
+The index of impact is  369 and the impact coordinate is  ( -0.435176430509 , 18.0141781574 )
+The final coordinate is ( -0.435176430509 , 18.0141781574 )
+boundary reached
+The index of impact is  403 and the impact coordinate is  ( 11.5164254274 , -0.112904445716 )
+The final coordinate is ( 11.5164254274 , -0.112904445716 )
+boundary reached
+The index of impact is  972 and the impact coordinate is  ( 15.7421019791 , -0.138556587238 )
+The final coordinate is ( 15.7421019791 , -0.138556587238 )
+boundary reached
+The index of impact is  355 and the impact coordinate is  ( -0.251708420113 , 6.84093836633 )
+The final coordinate is ( -0.251708420113 , 6.84093836633 )
+boundary reached
+The index of impact is  764 and the impact coordinate is  ( -0.773077108689 , 34.6330144583 )
+The final coordinate is ( -0.773077108689 , 34.6330144583 )
+boundary reached
+The index of impact is  642 and the impact coordinate is  ( 8.04228151416 , -0.403405867909 )
+The final coordinate is ( 8.04228151416 , -0.403405867909 )
+boundary reached
+The index of impact is  475 and the impact coordinate is  ( -0.127373792553 , 6.04338545875 )
+The final coordinate is ( -0.127373792553 , 6.04338545875 )
+boundary reached
+The index of impact is  882 and the impact coordinate is  ( 32.4065121656 , -0.114718302358 )
+The final coordinate is ( 32.4065121656 , -0.114718302358 )
+boundary reached
+The index of impact is  967 and the impact coordinate is  ( -1.50767013359 , 56.3824162553 )
+The final coordinate is ( -1.50767013359 , 56.3824162553 )
+boundary reached
+The index of impact is  1172 and the impact coordinate is  ( 72.674166979 , -0.0678720520563 )
+The final coordinate is ( 72.674166979 , -0.0678720520563 )
+boundary reached
+The index of impact is  37

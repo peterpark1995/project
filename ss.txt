@@ -1,0 +1,37 @@
+Point = ( 4.0 , 4.0 )
+Number of steps =  3000
+Total time = 50.0
+Iterations = 10
+epsilon = 0.0001
+delta = 0.5
+boundary = 5
+corner size  = boundary crossed
+The index of impact is  671 and the impact coordinate is  ( -0.0135058897363 , 2.42899854294 )
+The final coordinate is ( -0.0135058897363 , 2.42899854294 )
+boundary crossed
+The index of impact is  246 and the impact coordinate is  ( -0.00128600353787 , 5.26848588385 )
+The final coordinate is ( -0.00128600353787 , 5.26848588385 )
+boundary crossed
+The index of impact is  1703 and the impact coordinate is  ( 9.69687634312e-05 , 3.89176790882 )
+The final coordinate is ( 9.69687634312e-05 , 3.89176790882 )
+boundary crossed
+The index of impact is  435 and the impact coordinate is  ( -0.0019892106944 , 9.17373135212 )
+The final coordinate is ( -0.0019892106944 , 9.17373135212 )
+boundary crossed
+The index of impact is  316 and the impact coordinate is  ( -0.135339470116 , 8.42659566091 )
+The final coordinate is ( -0.135339470116 , 8.42659566091 )
+boundary not crossed
+The index of impact is  528 and the impact coordinate is  ( 11.742434044 , -0.0815906653417 )
+The final coordinate is ( 11.742434044 , -0.0815906653417 )
+boundary crossed
+The index of impact is  534 and the impact coordinate is  ( -1.04474689878 , 10.5526790064 )
+The final coordinate is ( -1.04474689878 , 10.5526790064 )
+boundary crossed
+The index of impact is  2699 and the impact coordinate is  ( 9.76238672983e-05 , 2.20177840196 )
+The final coordinate is ( 9.76238672983e-05 , 2.20177840196 )
+boundary crossed
+The index of impact is  474 and the impact coordinate is  ( 20.2995269666 , -0.810282356636 )
+The final coordinate is ( 20.2995269666 , -0.810282356636 )
+boundary crossed
+The index of impact is  2030 and the impact coordinate is  ( 9.55040542474e-05 , 2.98000049817 )
+The final coordinate is ( 9.55040542474e-05 , 2.98000049817 )
